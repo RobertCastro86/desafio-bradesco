@@ -3,7 +3,7 @@ body {
 }
 
 ul {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: sans-serif;
 }
 
 li {
@@ -20,7 +20,7 @@ li {
 
 .light-theme {
     color: #000000;
-    background: greenyellow;
+    background: #00ff00;
 }
 
 :root {
@@ -31,7 +31,7 @@ li {
 
 * {
     color: var(--fontColor);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: helvetica;
 }
 
 body {
@@ -39,7 +39,7 @@ body {
 }
 
 .light-theme {
-    --bg: var(--green);
+    --bg: var(--black);
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
@@ -47,8 +47,8 @@ body {
 
 .dark-theme {
     --bg: var(--black);
-    --fontColor: var(--black);
-    --btnBg: var(--black);
+    --fontColor: var(--white);
+    --btnBg: var(--white);
     --btnFontColor: var(--black);
 }
 
