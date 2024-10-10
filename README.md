@@ -1,5 +1,4 @@
-# Desafio Bradeso - Crie um site simples usando
-HTML, CSS e JavaScript
+# Desafio Bradeso - Crie um site simples usando HTML, CSS e JavaScript.
 
 Este curso contribui com o desenvolvimento de habilidades
 para que você possa criar sites ou aplicativos da Web.
